@@ -10,3 +10,6 @@ Se estuvo implementando HTML, CSS, Bootstrap para realizar el diseño de la pagi
 ## Back End
 Al momento de querer implementar la API asignada se presentaron problemas con la conexión.
 Los intentos de conexión  fueron realizados con lenguajes de PHP y javascript
+
+## URL de la página
+http://suministrosparapaquetes.atwebpages.com/Practica/index.html
